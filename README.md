@@ -5,4 +5,4 @@ Project Description: Responsive design ensures that web applications render well
 
 Tasks Accomplished: I made index.html, contact.html and portfolio.html pages. I made a responsive layout using bootstrap grids with responsive images. I included the grid, columns and rows within that grid. I think I made it look pretty good too.
 
-Deplyed site:  https://masonstafford.github.io/Mason-Stafford-Portfolio/
+Deployed site:  https://masonstafford.github.io/Mason-Stafford-Portfolio/
