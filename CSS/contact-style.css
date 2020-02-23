@@ -4,6 +4,26 @@
     padding: 0;
 }
 
+#gitBadge {
+    margin-bottom: 15px;
+    font-size: 50px;
+    color: #262626;
+}
+
+#gitBadge:hover {
+    color: #886196
+}
+
+#linkIn {
+    margin-bottom: 15px;
+    font-size: 50px;
+    color: #262626;
+}
+
+#linkIn:hover {
+    color: #886196;
+}
+
 body {
     background-color: #dddddd;
     width: 100%;
