@@ -8,6 +8,7 @@ Tasks Accomplished: I made index.html, contact.html and portfolio.html pages. I 
 
 Deployed site:  https://masonstafford.github.io/Mason-Stafford-Portfolio/
 
-![Screen Shot 2020-02-23 at 6 19 17 PM](https://user-images.githubusercontent.com/46834613/75122242-b5ceb880-5669-11ea-947a-f1adfa47147b.png)
-![Screen Shot 2020-02-23 at 6 21 38 PM](https://user-images.githubusercontent.com/46834613/75122245-b8311280-5669-11ea-826f-ed951c8b4ef5.png)
-![Screen Shot 2020-02-23 at 6 22 14 PM](https://user-images.githubusercontent.com/46834613/75122246-b8c9a900-5669-11ea-9382-5891a9d868e7.png)
+
+![home](https://user-images.githubusercontent.com/46834613/78411440-a4b88600-75dd-11ea-8e69-a70a8b1181fd.png)
+![contact](https://user-images.githubusercontent.com/46834613/78411445-a8e4a380-75dd-11ea-8659-2164d6ea51d2.png)
+![port](https://user-images.githubusercontent.com/46834613/78411435-a124ff00-75dd-11ea-9e94-1d1176f4b68b.png)
