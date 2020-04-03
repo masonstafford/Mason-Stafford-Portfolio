@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #dddddd;
+    background-color: #191F26;
     width: 100%;
     height: 100%;
     min-height: 100vh;
@@ -17,8 +17,7 @@ body {
 }
 
 nav .logo {
-    background-color: #3E806C;
-    color: #ffffff;
+    color: #F2F2F2;
     text-align: center;
     font-family: 'Playfair Display', serif;
     letter-spacing: 1px;
@@ -31,14 +30,17 @@ nav .logo {
 }
 
 .nav {
-    background-color: #3E806C;
-    color: #ffffff;
+    color: #F2F2F2;
     padding: 10px 0;
 }
 
 a {
-    color: #ffffff;
+    color: #F2F2F2;
     font-size: 16px;
+}
+
+a:hover {
+    color: #F27405;
 }
 
 .wrapper {
@@ -47,15 +49,16 @@ a {
 }
 
 .bin {
-    background-color: #ffffff;
+    background-color: #2B3440;
     height: 400px;
     padding: 0 15px;
-    margin: 0 20px 0 20px;
+    margin: 0 auto;
     max-width: 728px;
+    border-radius: 15px;
 }
 
 h2 {
-    color: #3E806C;
+    color: #F2F2F2;
     padding: 20px 0 10px 0;
     font-family: 'Playfair Display', serif;
     letter-spacing: 1px;
@@ -64,11 +67,11 @@ h2 {
 
 hr {
     margin: 0 0 15px 0;
-    border-top: solid darkgrey 2px;
+    border-top: solid #F27405 2px;
 }
 
 img {
-    background-color: #ffffff;
+    background-color: #F2F2F2;
     margin-top: 15px;
     width: 299px;
     height: 150px;
@@ -78,17 +81,17 @@ img {
 }
 
 p {
-    color: darkgrey;
-    background-color: #ffffff;
+    color: #F2F2F2;
+    font-size: 18px;
 }
 
 h6 {
-    border-top: solid 4px #3E806C;
+    border-top: solid 2px #F27405;
     font-size: 10px;
     text-align: center;
     padding: 20px 20px;
-    background-color: rgb(100, 100, 100);
-    color: #ffffff9a;
+    background-color: #2B3440;
+    color: #F2F2F2;
     margin-top: auto;
 }
 
@@ -102,14 +105,13 @@ h6 {
 }
 
 body {
-    background-color: #dddddd;
+    background-color: #191F26;
     width: 100%;
     height: 100%;
 }
 
 nav .logo {
-    background-color: #3E806C;
-    color: #ffffff;
+    color: #F2F2F2;
     text-align: center;
     font-family: 'Playfair Display', serif;
     letter-spacing: 1px;
@@ -118,15 +120,19 @@ nav .logo {
 }
 
 .nav {
-    background-color: #ffffff;
     color: darkgrey;
     padding: 10px 0;
     margin-bottom: 0;
 }
 
 a {
-    color: darkgrey;
+    color: #F2F2F2;
     font-size: 16px;
+    
+}
+
+a:hover {
+    color: #F27405;
 }
 
 .wrapper {
@@ -137,14 +143,14 @@ a {
 .bin{
     height: 600px;
     width: 600px;
-    background-color: #ffffff;
+    background-color: #2B3440;
     padding: 0 15px;
-    margin: 0 20px 0 20px;
+    margin: 0 auto;
 }
 
 
 h2 {
-    color: #3E806C;
+    color: #F2F2F2;
     padding: 20px 0 10px 0;
     font-family: 'Playfair Display', serif;
     letter-spacing: 1px;
@@ -153,7 +159,7 @@ h2 {
 
 hr {
     margin: 0 0 15px 0;
-    border-top: solid darkgrey 2px;
+    border-top: solid #F27405 2px;
 }
 
 img {
@@ -164,12 +170,12 @@ img {
 }
 
 h6 {
-    border-top: solid 4px #3E806C;
+    border-top: solid 2px #F27405;
     font-size: 10px;
     text-align: center;
     padding: 20px 20px;
-    background-color: rgb(100, 100, 100);
-    color: #ffffff9a;
+    background-color: #2B3440;
+    color: #F2F2F2;
     margin-top: auto;
 }
 
